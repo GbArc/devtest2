@@ -1,0 +1,3 @@
+dist: jammy
+language: cpp
+script: echo xxx
